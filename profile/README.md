@@ -1,5 +1,5 @@
 # RegexSolver
-[Homepage](https://regexsolver.com) | [Documentations](https://docs.regexsolver.com) | [Developper Console](https://console.regexsolver.com)
+[Homepage](https://regexsolver.com) | [Documentations](https://docs.regexsolver.com) | [Developer Console](https://console.regexsolver.com)
 
 RegexSolver is a comprehensive toolkit designed for working with regular expressions, enabling you to manipulate them as sets.
 
