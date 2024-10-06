@@ -3,11 +3,9 @@
 
 RegexSolver is a comprehensive toolkit designed for working with regular expressions, enabling you to manipulate them as sets.
 
-Our engine running on our server is implemented in Rust and is continuously improved to provide the best performance.
-
 We provide a range of open-source API wrappers in different programming languages, making it easier for developers to integrate our services into their applications.
 
-Currently, RegexSolver is available for free during our public beta/early access phase, allowing us to gather feedback and make necessary enhancements.
+We also provide the engine as an opensource Rust library.
 
 ## Features
 
