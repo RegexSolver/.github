@@ -5,7 +5,7 @@ RegexSolver is a comprehensive toolkit designed for working with regular express
 
 We provide a range of open-source API wrappers in different programming languages, making it easier for developers to integrate our services into their applications.
 
-We also provide the engine as an opensource Rust library.
+We also provide the engine as an open-source Rust library.
 
 ## Features
 
